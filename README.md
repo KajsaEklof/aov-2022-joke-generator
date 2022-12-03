@@ -1,3 +1,16 @@
+# My solution for Advent of Vue 2022 - 2 December 2022
+
+## What I learned
+
+- How to write a component/UI based on a pre-written test
+- Small bit of tailwind, should probably try and learn that a bit better
+
+## Possible improvements
+
+- Add loading spinner when getting a new joke so there's no flicker of the question text
+
+Forked Readme 👇
+
 # Advent Of Vue 2022
 
 ## If you didn't get here from an email, read this section! Skip it otherwise.
